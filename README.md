@@ -14,8 +14,8 @@ to retrieve some data.
 
 3.
  to get list of items (by status or userid) 
- http://127.0.0.1:10001/getitemslist?status=AAsm
- http://127.0.0.1:10001/getitemslist?userid=AAsm
+ http://127.0.0.1:10001/getitemlist?status=AAsm
+ http://127.0.0.1:10001/getitemlist?userid=AAsm
 
 4.
  to get list of items in a radius 
