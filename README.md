@@ -1,4 +1,4 @@
-# Craingslist Sales Details
+# Craigslist Sales Details
 
 This repo contains information related to sales details of Craiglist and some apis
 to retrieve some data.
